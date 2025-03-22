@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+kG67fXBnctUwzy1s9zg+4PMsw13mweiIThuYu5knT9BmURSDM955mpe8ZUOsf03YtIk/sAJ6lUN8AuC/BpZwg==",
+  "dgSpecHash": "IPlyvwmjMn8=",
   "success": true,
-  "projectFilePath": "D:\\github_K\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\github\\Lab06-CSharp-Strings\\Hello_World\\Hello_World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
